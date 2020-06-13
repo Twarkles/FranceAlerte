@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956334454428",
+    "firebase_url": "https://francealerte-fc470.firebaseio.com",
+    "project_id": "francealerte-fc470",
+    "storage_bucket": "francealerte-fc470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956334454428:android:4875a408e2010f8ea95f59",
+        "android_client_info": {
+          "package_name": "com.example.francealerte"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956334454428-osp1fcfieq8jgqiss96df36mk0tqeb39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.francealerte",
+            "certificate_hash": "4400a9a561ef33f3a980089c1a899afc31cdb2b8"
+          }
+        },
+        {
+          "client_id": "956334454428-a4eunkvqatfj4rrq0b7jnke6cmp8evkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsKX58SoeSMffF9P4BQ4RDcLU_1_fLn34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956334454428-a4eunkvqatfj4rrq0b7jnke6cmp8evkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
